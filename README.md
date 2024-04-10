@@ -1,0 +1,1 @@
+The minor project is about classification of PCOS infected and normal images. The CNN file contains the code for training the convolutional neural network while the other file consist of the code for the data preprocessing and training the binary SVM Classifier. 
